@@ -1,3 +1,3 @@
-Hi there 👋, my name is Matas
-I'm a 20 year future software developer
-Currently, I'm a second year student at Vilnius Tech University
+Hi there 👋, my name is Matas <br>
+I'm a 21 year future software developer <br>
+Currently, I'm a third year student at Vilnius Tech University
